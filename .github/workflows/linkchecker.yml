@@ -1,4 +1,4 @@
-name: "Code Quality: Link Checker"
+name: "Check Links"
 
 on:
   push:

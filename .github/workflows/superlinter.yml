@@ -1,5 +1,5 @@
 ---
-name: "Code Quality: Super-Linter"
+name: "Lint Repository"
 
 on:
   push:
